@@ -70,13 +70,7 @@ work: Software Engineer Explore Intern @ Microsoft (Defender for Endpoint · Lin
 
 ---
 
-### GitHub Stats
-
 <p align="center">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=maydayv7&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="GitHub Stats" />
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maydayv7&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maydayv7&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" />
 </p>
